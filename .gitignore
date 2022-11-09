@@ -1,1 +1,9 @@
 .idea
+
+node_modules
+LESSON-4/node_modules
+LESSON-5/node_modules
+
+package-lock.json
+LESSON-4/package-lock.json
+LESSON-5/package-lock.json
